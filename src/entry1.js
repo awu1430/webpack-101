@@ -5,7 +5,6 @@ var BlueBox = require('./components/blue-box/blue-box');
 
 /* Style dependencies */
 require('../styles/base.less');
-
 var app = (
     <div>
         <GreenBox/>
